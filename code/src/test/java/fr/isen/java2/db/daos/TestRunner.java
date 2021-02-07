@@ -2,7 +2,7 @@ package fr.isen.java2.db.daos;
 
 import java.util.Scanner;
 
-public class Testrunner {
+public class TestRunner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("1 pour GenreTest, 2 pour FilmTest");
